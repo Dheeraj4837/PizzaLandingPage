@@ -1,0 +1,7 @@
+1-element or tag selector
+2-class selector
+3-Id selector
+4-combinator selector (cobine two or more selector {, ; space ; >  + ; ~  })
+5-universal selector
+6-attrubute selector
+7-pseduo selector
